@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Auth info
+auth_info
+
+# Environment variable file
+.env
+
+# Data directory
+data/
+
+# Logs
+logs/
+
+# macOS system files
+.DS_Store
